@@ -1,4 +1,4 @@
-# War and Peace
+# In Search of Lost Time
 
 Available at https://alessandrosp.github.io/in-search-of-lost-time/.
 
